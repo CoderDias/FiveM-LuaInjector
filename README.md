@@ -6,7 +6,7 @@ DOES NOT WORK ON WINDOWS 8, 7 OR UNDER!!
 1- close FiveM  
 2- Open the injector choose your .lua file (must be on the same directory of the injector) and have fun  
 Btw check out my friends Valorant Cheat: https://github.com/VLXTodo/valorantx  
-#License  
+# License  
 BSD 2-Clause License
 
 Copyright (c) 2022, Lucifer
