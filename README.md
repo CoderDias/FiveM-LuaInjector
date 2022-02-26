@@ -1,4 +1,4 @@
-# FiveM-LuaInjector
+# FiveM LuaInjector
 FiveM Lua Injector  
 DOES NOT WORK ON WINDOWS 8, 7 OR UNDER!!  
 1- close FiveM  
