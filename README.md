@@ -1,5 +1,5 @@
 # FiveM-LuaInjector
-FiveM Lua Injector 
+FiveM Lua Injector  
 DOES NOT WORK ON WINDOWS 8, 7 OR UNDER!!  
 1- close FiveM  
 2- Open the injector choose your .lua file (must be on the same directory of the injector) and have fun  
