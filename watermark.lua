@@ -4,7 +4,7 @@ local font = surface_create_font("Verdana", 12, 400, 0, 144)
 local name = cheat_get_user_name()
 local w, h = engine_get_screen_size()
 local name_width = surface_get_text_size(font,name)
-local text = "VLXTodo |"..name.."| 64 Tick |120 Fps"
+local text = "Luciferuwu |"..name.."| 64 Tick |120 Fps"
 local text_width = surface_get_text_size(font,text)
 local menu_width = 10+text_width+10 
 
