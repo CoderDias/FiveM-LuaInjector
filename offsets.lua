@@ -1,12 +1,12 @@
     Hashes
     ==========
     engine.dll	14D317B3 (CRC-32)
-    client.dll	8FFCE685 (CRC-32)
+    client.dll	8DFCE685 (CRC-32)
      
     Offsets
     ==========
     Player Base	client.dll + 9DF064
-    Entity Base	client.dll + A4E224
+    Entity Base	client.dll + A7E224
     Entity Size	10
      
     View Matrix	 client.dll + A43764
